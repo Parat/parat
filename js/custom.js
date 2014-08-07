@@ -1,5 +1,5 @@
 (function($){
-	var paratPath = 'http://221.200.1.146:8080/';
+	var paratPath = 'http://194.248.169.182/';
 
 	$(document).ready(function() {
 		$('#small img').prop('src', paratPath + 'video3.mjpg');
