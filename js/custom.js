@@ -1,5 +1,5 @@
 (function($){
-	var paratPath = 'http://194.248.169.182/';
+	var paratPath = 'http://webcam.parat.no/';
 
 	$(document).ready(function() {
 		$('#small img').prop('src', paratPath + 'video3.mjpg');
